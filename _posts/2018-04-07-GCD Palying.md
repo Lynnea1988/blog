@@ -64,7 +64,7 @@ Workshop以每月一城的速度在全国范围内展开，2017年，我们已�
 南京市，玄武区，龙蟠路8号惠园内 后湖别院茶楼（玄武湖边，南京站旁，1、3号线可直达 ）
 
 
-![GCD3]({{ '/styles/images/GCD3.gif' | prepend: site.baseurl  }}) 
+![GCD3]({{ '/styles/images/GCD3.jpg' | prepend: site.baseurl  }}) 
 
-![GCD4]({{ '/styles/images/GCD4.gif' | prepend: site.baseurl  }}) 
+![GCD4]({{ '/styles/images/GCD4.jpg' | prepend: site.baseurl  }}) 
 
