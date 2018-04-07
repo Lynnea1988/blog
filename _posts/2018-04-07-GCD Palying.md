@@ -9,7 +9,7 @@ tag: lynnea
 * content
 {:toc}
 
- ![GCD1](styles/images/GCD1.gif) 
+ ![GCD1]({{ '/styles/images/GCD1.gif' | prepend: site.baseurl  }}) 
 其实
 代码并不复杂，比人性简单许多
 程序猿（媛）并不刻板，比代码本身有趣许多
@@ -38,6 +38,6 @@ Workshop以每月一城的速度在全国范围内展开，2017年，我们已�
 
 你不需要具备任何编程基础，只需要有一颗探索的心，那么在一天半的工作坊结束之后，你就可以做出这样的网站：
 
-![GCD2](styles/images/GCD2.gif) 
+![GCD2]({{ '/styles/images/GCD2.gif' | prepend: site.baseurl  }}) 
 我们希望能通过代码构建一种职场的性别平等，推动更多女性进入科技领域，带给她们多元性的可能和改变，并鼓励她们去完成她们的成长愿望。
 有趣的是，在过去的Workshop里，有一些在其他行业已经做出成绩，并不准备加入IT行业的女性来参加，问她们为什么来，她们说：“希望学习一套新的逻辑，完善自己的世界观。”
